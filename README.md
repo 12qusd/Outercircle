@@ -49,9 +49,3 @@ Administrator:
 ==============
 
 Administrator is admin@outercircle.org. If the user doesn't exist you can add it with whatever password you want. After logging in as admin@outercircle.org go to /adminPortal to add charities.
-
-
-Features Since Presentation:
-============================
-
-We added autofill for charities when entering donations since Steve mentioned that it would be a nice feature.
